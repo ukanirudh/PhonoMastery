@@ -1,0 +1,7 @@
+{
+  "name": "phonomastery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
